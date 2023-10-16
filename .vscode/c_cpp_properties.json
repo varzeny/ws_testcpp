@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "ROS2",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/foxy/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "/opt/ros/foxy/include/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
